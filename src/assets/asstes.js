@@ -56,7 +56,7 @@ export const projectData = [
     description:
       "A full-stack travel listing web app built using JavaScript, Node.js, and Express.",
     image:
-      "https://res-console.cloudinary.com/da0wqrzmd/thumbnails/v1/image/upload/v1769845973/U2NyZWVuc2hvdF8yMDI1LTA4LTE5XzE2MTc0Nl9naGlneDI=/drilldown",
+      "https://res.cloudinary.com/da0wqrzmd/image/upload/v1772390042/Screenshot_2025-08-19_161746_ghigx2.png",
     tech: ["JavaScript", "Tailwindcss", "Node.js", "Express"],
   },
   {
@@ -64,7 +64,7 @@ export const projectData = [
     description:
       "A React-based weather application that fetches real-time data using a Weather API.",
     image:
-      "https://res-console.cloudinary.com/da0wqrzmd/thumbnails/v1/image/upload/v1769846146/U2NyZWVuc2hvdF8yMDI2LTAxLTMxXzEzMjUyMF96OGtkeGY=/drilldown",
+      "https://res.cloudinary.com/da0wqrzmd/image/upload/v1772389981/Screenshot_2026-01-31_132520_z8kdxf.png",
     tech: ["React", "Tailwindcss", "Node.js", "Express"],
   },
 ];
